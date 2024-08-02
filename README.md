@@ -48,7 +48,7 @@ To compile and run C++ code, you need a C++ compiler:
 
    ```cpp
    //sai sankar jena
-   23070123112
+   //23070123112
    // hello.cpp
    #include <iostream>
 
@@ -156,4 +156,10 @@ To compile and run C++ code, you need a C++ compiler:
    ```
 
 5. Follow the prompts to perform calculations.
+## OUTPUTS:
+### CODE 1:
+![Screenshot 2024-08-02 121830](https://github.com/user-attachments/assets/d546346a-da51-4fa5-9e43-0d842bf5c6f6)
+### CODE 2:
+![Screenshot 2024-08-02 121908](https://github.com/user-attachments/assets/28d5b085-9fe9-4959-840e-6d4e2e64f21c)
+
 
